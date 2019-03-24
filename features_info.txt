@@ -56,4 +56,6 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-The complete list of variables of each feature vector is available in 'features.txt'
+The list of subjects is "Subjects" and is a list of non-identifying numbers for each test subject.
+
+The list of activities has both a number component ("activity_number") and a clear description component ("activity_name"). Each activity has a unique number and clear name.
