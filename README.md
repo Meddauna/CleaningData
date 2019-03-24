@@ -16,6 +16,8 @@ all of the tables into a single master table.
 
 ## Extracting what we want
 Next, we use grep to find the columns of means and standard deviation and extract them into a new table along with the user and activity.
+This gives us the "interestingdata" table.
 
 ## Summarizing
-Using our extracted table, we now summarize to get the mean of each column, grouped by the user and activity.
+Using our extracted table, we now summarize to get the mean of each column of interest, grouped by the user and activity.
+This gives us the "interestingsummary" table
